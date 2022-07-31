@@ -1,4 +1,4 @@
-### Hey bro!!! A menina do gorro tá na área:)
+### Hey guys, i'am A menina do gorro 
 
 ###
 
