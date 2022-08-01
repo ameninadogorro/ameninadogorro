@@ -1,4 +1,4 @@
-### Hey guys 👾
+### Hey guys, welcome to my profile 👾
 
 ###
    
@@ -9,11 +9,4 @@
    <a href="https://www.youtube.com/in/ameninadogorro-/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 <div> 
 
-###
-
-<div align="center">
-  <a href="https://github.com/ameninadogorro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameninadogorro&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
 ###
