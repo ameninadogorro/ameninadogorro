@@ -19,7 +19,7 @@
 I usually say that "I'm not afraid of the unknown, I have love"!🤍</p>
     </td>
     <td>
-    <img src="https://camo.githubusercontent.com/5d1447cdd60ec725231ef469f6e56f5d6d1858b53a7bab9e99842d7878cfaf3b/68747470733a2f2f7069637265772e6d652f7368617265496d672f7365637265742f3230323230382f39343039375f74587152645439302e706e67">
+    <img src="94097_VodTdEZn.png">
     </td>
   </tr>
 </table>
