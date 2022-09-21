@@ -14,9 +14,8 @@
   <tr>
     <td>
     <h3> About me 👩🏼‍💻 🏳️‍🌈 </h3>
-<p> Hello everyone my name is Ana, better known as A menina do gorro, I'm 17 years old and I'm a skateboarder, drummer and IOS developer✨</p> 
-<p>I've always been very curious and questioning about EVERYTHING, knowing how things work makes me very happy and fulfilled and the more complex it is the better.
-I usually say that "I'm not afraid of the unknown, I have love"!🤍</p>
+<p> Hey guys, eu sou a Ana, mais conhecida como A menina do gorro, tenho 17 anos e eu sou skatista, baterista e desenvolvedora IOS ✨</p> 
+<p>Sempre fui muito curiosa e questionadora sobre TUDO, saber como as coisas funcionam sempre me deixou muito empolgada e realizada e quanto mais complexo melhor. (Acho que foi daí que surgiu minha paixão por cubos mágicos rsrsrs)🙃</p>
     </td>
     <td>
     <img src="94097_VodTdEZn.png">
