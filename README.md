@@ -1,13 +1,10 @@
-### Hey guys, i'am A menina do gorro and welcome to my profile🖖🏻
+<h1 align="center">Hi, I'm Ana :)</h1>
 
-##
-   
-<div> 
-  <a href="https://instagram.com/ameninadogorro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <h1 align="center"> <a href="https://instagram.com/ameninadogorro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ameninadogorro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-guimaraes-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.youtube.com/in/ameninadogorro-/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-<div> 
+   <a href="https://www.youtube.com/in/ameninadogorro-/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> </h1>
+<div>
 
 ###
 <table border="0">
@@ -25,6 +22,10 @@
 
 <details>
   <summary> More </summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameninadogorro&layout=compact&bg_color=ffffff&text_color=4D71C1&title_color=456EBF">
+lio is a work in progress coming soon!
+
+| :) | :) |
+|----|----|
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameninadogorro&show_icons=true&locale=en&count_private=true" alt="ryendu" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameninadogorro&" alt="ryendu" /></p> |
 </details>
 <br/>
