@@ -26,6 +26,6 @@ lio is a work in progress coming soon!
 
 | :) | :) |
 |----|----|
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameninadogorro&show_icons=true&locale=en&count_private=true" alt="ryendu" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameninadogorro&" alt="ryendu" /></p> |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameninadogorro&show_icons=true&locale=en&count_private=true" alt="ameninadogorro" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameninadogorro&" alt="ameninadogorro" /></p> |
 </details>
 <br/>
