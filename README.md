@@ -24,7 +24,6 @@
 
 <details>
   <summary> More </summary>
-lio is a work in progress coming soon!
 
 | :) | :) |
 |----|----|
