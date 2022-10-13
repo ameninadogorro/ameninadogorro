@@ -12,7 +12,7 @@
     <td>
     <h3> About me 👩🏼‍💻 🏳️‍🌈 </h3>
 <p> Hey guys, eu sou a Ana, mais conhecida como A menina do gorro, tenho 17 anos e eu sou skatista, baterista e desenvolvedora IOS ✨</p> 
-<p>Sempre fui muito curiosa e questionadora sobre TUDO, saber como as coisas funcionam sempre me deixou muito empolgada e realizada e quanto mais complexo melhor. (Acho que foi daí que surgiu minha paixão por cubos mágicos rsrsrs)🙃</p>
+<p></p>
     </td>
     <td>
     <img src="94097_VodTdEZn.png">
