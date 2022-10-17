@@ -25,8 +25,9 @@
 <details>
   <summary> More </summary>
 
-| :) | :) |
-|----|----|
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameninadogorro&show_icons=true&locale=en&count_private=true" alt="ameninadogorro" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameninadogorro&" alt="ameninadogorro" /></p> |
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=ameninadogorro_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameninadogorro&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
 </details>
 <br/>
