@@ -31,6 +31,7 @@
 
 <details>
   <summary> More </summary>
+  
 ## Analytics & Highlights
 
  <h1 align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="140em" src="https://github-readme-stats-bpires.vercel.app/api?username=Ameninadogorro&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
