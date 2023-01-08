@@ -43,4 +43,7 @@
 <a href="https://metrics.lecoq.io/insights/Ameninadogorro" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
 
 </details>
+
 <br/>
+
+
