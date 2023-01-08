@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ana :)</h1>
 
 
-## About Me 👩🏼‍💻
+## About Me 👩🏻‍💻
  <table border="0">
   <tr>
     <td>
