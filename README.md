@@ -39,6 +39,8 @@
  <h1 align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="140em" src="https://github-readme-stats-bpires.vercel.app/api?username=Ameninadogorro&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ameninadogorro&theme=dracula&hide_border=true"></a>&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="154em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=Ameninadogorro&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true"></a>&nbsp;
+  
+  
  
 <a href="https://metrics.lecoq.io/insights/Ameninadogorro" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
 
