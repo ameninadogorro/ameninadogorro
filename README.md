@@ -11,17 +11,11 @@
 <p>And in this profile you can find some of my projects😉</p>
     </td>
     <td>
-    <img src="94097_VodTdEZn.png">
+    <img src="IMG_4591.PNG">
     </td>
   </tr>
 </table>
 
-##  Socials
-
-   <h1 align="center"> <a href="https://instagram.com/ameninasemgorro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ameninadogorro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-guimaraes-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </h1>
  
 <div>
 
@@ -36,13 +30,16 @@
 ## Analytics & Highlights
 
 
- <h1 align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="140em" src="https://github-readme-stats-bpires.vercel.app/api?username=Ameninadogorro&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ameninadogorro&theme=dracula&hide_border=true"></a>&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="154em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=Ameninadogorro&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true"></a>&nbsp;
+ <h1 align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="140em" src="https://github-readme-stats-bpires.vercel.app/api?username=Ameninadoios&hide_title=true&line_height=30&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>&nbsp;
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="140em" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Ameninadoios&theme=dracula&hide_border=true"></a>&nbsp;
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=ameninadoios&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true"></a>&nbsp;
+
   
   
  
-<a href="https://metrics.lecoq.io/insights/Ameninadogorro" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
+<a href="https://metrics.lecoq.io/insights/Ameninadoios" target="_blank" rel="noreferrer"><img height="27.5em" src="https://user-images.githubusercontent.com/86871991/178090011-2be9a8c0-ad68-4e7d-8568-6256d8178a28.png"></img></a>
 
 </details>
 
