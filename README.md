@@ -34,7 +34,7 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="140em" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=Ameninadoios&theme=dracula&hide_border=true"></a>&nbsp;
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=ameninadoios&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=5&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=ameninadoios&layout=compact&card_width=400&hide_title=true&theme=dracula&t&langs_count=6&hide_border=true"></a>&nbsp;
 
   
   
