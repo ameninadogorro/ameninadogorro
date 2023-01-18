@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ana :)</h1>
+<h1 align="center"> Hi, I'm Ana :)</h1>
 
 
 ## About Me 👩🏻‍💻
@@ -44,5 +44,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Ameninadogorro&theme
 </details>
 
 <br/>
+
+
 
 
