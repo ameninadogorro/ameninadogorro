@@ -24,6 +24,7 @@
 [![Minhas Habilidades](https://skillicons.dev/icons?i=swift,html,css,js,figma,java,photoshop,mysql,git,python,php,nodejs,sqlite,firebase,illustrator
 )](https://skillicons.dev)
 
+
 <details>
   <summary> More </summary>
   
