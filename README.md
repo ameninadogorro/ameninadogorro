@@ -21,7 +21,7 @@
 
 ## Languages and Tools 
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=swift,html,css,js,figma,java,photoshop,mysql,git,python,php,firebase,illustrator
+[![Minhas Habilidades](https://skillicons.dev/icons?i=swift,html,css,js,figma,java,mysql,git,python,php,illustrator,photoshop
 )](https://skillicons.dev)
 
 
