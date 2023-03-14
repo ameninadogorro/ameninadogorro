@@ -1,5 +1,5 @@
 
-<img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
+<img src="A me.png">
 <h2>Hi, I'm Ana!</h2>
 <p>Hello everyone my name is Ana, better known as A menina do gorro, I'm 17 years old and I'm a skateboarder, drummer and IOS developer✨
 </em></p>
