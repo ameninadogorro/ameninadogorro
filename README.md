@@ -1,32 +1,10 @@
-<h1 align="center"> Hi, I'm Ana :)</h1>
 
-
-## About Me 👩🏻‍💻
- <table border="0">
-  <tr>
-    <td>
-<p> Hello everyone my name is Ana, better known as A menina do gorro, I'm 17 years old and I'm a skateboarder, drummer and IOS developer✨<p>
-<p>I've always been very curious and questioning about EVERYTHING, knowing how things work makes me very happy and fulfilled and the more complex it is the better.<p>
-<p>I love challenges, they make me feel alive, in fact I think that without them life is a little boring. <p>
-<p>And in this profile you can find some of my projects😉</p>
-    </td>
-    <td>
-    <img src="IMG_4591.PNG">
-    </td>
-  </tr>
-</table>
-
+<img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
+<h2>Hi, I'm Ana!</h2>
+<p>Hello everyone my name is Ana, better known as A menina do gorro, I'm 17 years old and I'm a skateboarder, drummer and IOS developer✨
+</em></p>
  
 <div>
-
-## Languages and Tools 
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=swift,html,css,js,figma,java,mysql,git,python,php,illustrator,photoshop
-)](https://skillicons.dev)
-
-
-<details>
-  <summary> More </summary>
   
 ## Analytics & Highlights
 
