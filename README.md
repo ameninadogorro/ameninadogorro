@@ -1,7 +1,9 @@
 
 <img src="A me.png">
 <h2>Hi, I'm Ana!</h2>
-<p>Hello everyone my name is Ana, better known as A menina do gorro, I'm 17 years old and I'm a skateboarder, drummer and IOS developer✨
+<p>I've been programming since I was 16 and I'm a skater, drummer and IOS developer ✨
+
+<p>Feel free to explore my projects✌🏻
 </em></p>
  
 <div>
