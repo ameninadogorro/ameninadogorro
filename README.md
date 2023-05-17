@@ -4,7 +4,7 @@
 <p>I've been programming since I was 16 and I'm a skater, drummer and IOS developer ✨
 
 - 🌱 Studying and improving my skills in IOS development, Machine Learning and Design.
-- 🚀 Student at Federal Institute of Ceará (IFCE).
+- 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 - 📫 My email: ameninadogorro@gmail.com
 
 <p>Feel free to explore my projects✌🏻
