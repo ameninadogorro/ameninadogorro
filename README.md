@@ -3,8 +3,9 @@
 <h2>Hi, I'm Ana!</h2>
 <p>I've been programming since I was 16 and I'm a skater, drummer and iOS developer ✨
 
-- 🌱 Studying and improving my skills in IOS development, Machine Learning and Design.
+- 🌱 Studying and improving my skills in iOS development, Machine Learning and Design.
 - 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+- 🧑🏻‍💻 iOS Developer Intern at Apple Developer Academy | IFCE.
 - 📫 My email: ameninadogorro@gmail.com
 
 <p>Feel free to explore my projects✌🏻
