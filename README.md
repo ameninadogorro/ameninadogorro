@@ -6,6 +6,7 @@
 - 🌱 Studying and improving my skills in iOS development, Machine Learning and Design.
 - 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 - 🧑🏻‍💻 iOS Developer Intern at Apple Developer Academy | IFCE.
+- 👥 My linkedin: https://www.linkedin.com/in/ameninadogorro/
 - 📫 My email: ameninadogorro@gmail.com
 
 <p>Feel free to explore my projects✌🏻
@@ -29,12 +30,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Ameninadogorro&theme
  
 </details>
 
-## 💬 Want to get in touch?
-
-<div>
-  <a href="https://www.linkedin.com/in/ameninadogorro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "ameninadogorro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/CxxnbHpM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br>
 <p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
