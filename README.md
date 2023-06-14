@@ -1,5 +1,5 @@
 
-<img src="A me.png">
+<img src="A me-2.png">
 <h2>Hi, I'm Ana!</h2>
 <p>I've been programming since I was 16 and I'm a skater, drummer and iOS developer ✨
 
