@@ -1,12 +1,9 @@
 
 <h2>Hi, I'm Ana!</h2>
-<p>I've been programming since I was 16 and I'm a skater, drummer and iOS developer ✨
 
 - 🌱 Studying and improving my skills in iOS development, Machine Learning and Design.
 - 🚀 Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
-- 🧑🏻‍💻 iOS Developer Intern at Apple Developer Academy | IFCE.
-- 👥 My linkedin: https://www.linkedin.com/in/ameninadogorro/
-- 📫 My email: ameninadogorro@gmail.com
+- 👥 My linkedin: https://www.linkedin.com/in/ana-guimaraes-/
 
 <p>Feel free to explore my projects✌🏻
 </em></p>
@@ -31,7 +28,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Ameninadogorro&theme
 
 </div>
 <br>
-<p>🧠 <span style="font-style:italic">“𝘌𝘶 𝘢𝘤𝘳𝘦𝘥𝘪𝘵𝘰 𝘲𝘶𝘦 𝘢̀𝘴 𝘷𝘦𝘻𝘦𝘴 𝘴𝘢̃𝘰 𝘢𝘴 𝘱𝘦𝘴𝘴𝘰𝘢𝘴 𝘲𝘶𝘦 𝘯𝘪𝘯𝘨𝘶𝘦́𝘮 𝘦𝘴𝘱𝘦𝘳𝘢 𝘯𝘢𝘥𝘢 𝘲𝘶𝘦 𝘧𝘢𝘻𝘦𝘮 𝘢𝘴 𝘤𝘰𝘪𝘴𝘢𝘴 𝘲𝘶𝘦 𝘯𝘪𝘯𝘨𝘶𝘦́𝘮 𝘤𝘰𝘯𝘴𝘦𝘨𝘶𝘦 𝘪𝘮𝘢𝘨𝘪𝘯𝘢𝘳.” - 𝘈𝘭𝘢𝘯 𝘛𝘶𝘳𝘪𝘯𝘨</span></p>
+<p></p>
 
 
 
